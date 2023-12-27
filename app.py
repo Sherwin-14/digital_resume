@@ -19,7 +19,7 @@ DESCRIPTION= """
 As a budding data analyst, I leverage data transformation skills to facilitate informed decisions and stimulate business growth.
 
 """
-EMAIL= "varghesesherwin@gmail.com"
+EMAIL= "varghesesheriwn@gmail.com"
 SOCIAL_MEDIA={
     "LinkedIn": "https://linkedin.com/sherwin14",
     "Github": "https://github.com/Sherwin-14",
@@ -98,7 +98,7 @@ st.write(
    - 💽 Databases - MySQl, MongoDB
    - 📚 Libraries - Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy
    - 🍶 Frameworks - Plotly-Dash, Flask, Streamlit 
-   - 🔧 Dev Tools -Jupyter Notebook, VS Code, Pycharm, Postman 
+   - 🔧 Dev Tools -Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira 
 """
 )
 
