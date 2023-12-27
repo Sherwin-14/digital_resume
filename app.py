@@ -21,7 +21,7 @@ As a budding data analyst, I leverage data transformation skills to facilitate i
 """
 EMAIL= "varghesesheriwn@gmail.com"
 SOCIAL_MEDIA={
-    "LinkedIn": "https://linkedin.com/sherwin14",
+    "LinkedIn": "https://linkedin.com/in/sherwin14",
     "Github": "https://github.com/Sherwin-14",
     "Youtube": "",
     "Twitter": ""
