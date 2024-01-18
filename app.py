@@ -94,11 +94,11 @@ st.subheader("Hard Skills")
 st.write(
     """
    - 👨‍💻 Programming - Python, C/C++, SQL
-   - 📊 Data Visualization - Matplotlib, Seaborn, Plotly, MS-Excel, Power BI
+   - 📊 Analytics - Power BI, Tableau, Looker Studio 
    - 💽 Databases - MySQl, MongoDB
-   - 📚 Libraries - Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy
+   - 📚 Libraries - Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy, Beautiful-Soup, Matplotlib, Seaborn, Plotly
    - 🍶 Frameworks - Plotly-Dash, Flask, Streamlit 
-   - 🔧 Dev Tools -Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira 
+   - 🔧 Dev Tools -Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira, Docker
 """
 )
 
