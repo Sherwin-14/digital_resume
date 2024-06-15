@@ -95,10 +95,10 @@ st.write(
     """
    - 👨‍💻 Programming - Python, C/C++, SQL
    - 📊 Data Visualization - Matplotlib, Seaborn, Plotly, MS-Excel, Power BI
-   - 💽 Databases - MySQl, MongoDB
-   - 📚 Libraries - Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy
-   - 🍶 Frameworks - Plotly-Dash, Flask, Streamlit 
-   - 🔧 Dev Tools -Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira 
+   - 💽 Databases  -  PostgresSQL, MongoDB
+   - 📚 Libraries  -  Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy
+   - 🍶 Frameworks -  Plotly-Dash, Flask, Streamlit 
+   - 🔧 Dev Tools  -  Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira 
 """
 )
 
