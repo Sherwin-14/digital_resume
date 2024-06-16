@@ -160,7 +160,6 @@ for project,link in PERSONAL_PROJECTS.items():
     st.write(f"[{project}]({link})")
 
 #------Blogs and Articles---
-for blog in blogs:
+for blog in blogs.items():
     st.markdown(f"{blog}")
-    st.markdown("---")  #
 
