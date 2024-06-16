@@ -30,9 +30,9 @@ PERSONAL_PROJECTS={
 
     "🏆 English Premier League Analysis - An Analysis of EPL Season 20/21 " : "https://github.com/Sherwin-14/English_Premier_Analysis",
     "🏆 Polish Property Market Overview - Understanding The Market Through Otodom " : "https://github.com/Sherwin-14/Polish-Property-Market-Overview",
-    "🏆 Atliq Mart Supply Chain Optimization - Journey to Supply Chain Excellence":"https://github.com/Sherwin-14/PixieDust/tree/master",
-    "🏆 Metropolitan Motion - The Analytic Route of NY’s Yellow Cabs" :"https://github.com/Sherwin-14/Hospitality_Domain ",
-    "🏆 Atliq Telecom User Analysis -  Mapping User Trends at Atliq Telecom" :"https://github.com/Sherwin-14/BeatBoard ",
+    "🏆 Atliq Mart Supply Chain Optimization - Journey to Supply Chain Excellence":"https://github.com/Sherwin-14/Atliq_Mart",
+    "🏆 Metropolitan Motion - The Analytic Route of NY’s Yellow Cabs" :"https://github.com/Sherwin-14/NYC_Taxi_Analysis",
+    "🏆 Atliq Telecom User Analysis -  Mapping User Trends at Atliq Telecom" :"https://github.com/Sherwin-14/Atliq_Telecom",
     "🏆 Revenue Insights Hospitality Domain - Dashboard on Hospitality Domain" :"https://github.com/Sherwin-14/Hospitality_Domain ",
     
 }
