@@ -119,11 +119,10 @@ st.write(" 🚧 ","**Open Source Contributor | Github**")
 st.write("10/2023- Present")
 st.write(
     """
-     - ► Addressed challenges by conducting comprehensive research on the Simulation and MedTech industry.
-     - ► Led the development of a web application using Streamlit and Visual Python for real-time simulation visualization, which increased team productivity by 40%.
-     - ► Developed an effective scheduling algorithm for job processing in the simulation, which cut down the runtime by 25%.
-     - ► Rectified significant bugs, thereby improving the performance and dependability of the simulation software.
-     - ► Oversaw a team to exhibit the product’s features at SETU, an event hosted by IIT Indore.
+     - ► Implemented Linking: Harnessed Flask to incorporate the repository link into the UI
+     - ► Reported and Solved Bug: Identified and reported Docker build issue on Arch Linux
+     - ► Enhanced the website’s user interface by adding appropriate elements to the footer, improving the overall user experience and website functionality
+     - ► Authored and contributed an interactive data visualization tutorial using Plotly and Pandas libraries, focusing on the analysis of the Airbnb Europe dataset.
 """
 )
 
