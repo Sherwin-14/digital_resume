@@ -116,7 +116,7 @@ st.write("---")
 
 #---JOB 1
 st.write(" 🚧 ","**Open Source Contributor | Github**")
-st.write("10/2023- Present")
+st.write("10/2023 - Present")
 st.write(
     """
      - ► Implemented Linking: Harnessed Flask to incorporate the repository link into the UI
@@ -129,7 +129,7 @@ st.write(
 
 #---JOB 2
 st.write(" 🚧 ","**Project Engineer | IIT Indore**")
-st.write("06/2023- 10/2023")
+st.write("06/2023 - 10/2023")
 st.write(
     """
      - ► Addressed challenges by conducting comprehensive research on the Simulation and MedTech industry.
@@ -143,7 +143,7 @@ st.write(
 
 #---JOB 3
 st.write(" 🚧 ","**Supply Chain Analyst | Premeir Interio**")
-st.write("01/2023- 05/2023")
+st.write("01/2023 - 05/2023")
 st.write(
     """
      - ► Implemented a Just-In-Time inventory system, reducing carrying costs by 30% and boosting inventory turnover by 25%
