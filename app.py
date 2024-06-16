@@ -40,7 +40,7 @@ PERSONAL_PROJECTS={
 blogs = {
     "📈 LLM VS LIM: A Comparative Analysis" : "https://blog.gopenai.com/large-language-models-llm-vs-large-image-models-lim-a-comparative-analysis-91d770443bab",
     "🔍 Examining Comedy In India Through EDA Part 1" : "https://medium.com/@varghesesherwin/examining-comedy-in-india-through-eda-part-1-7439381f9ad1",
-    "💡 Exploring PyCaret: A Low-Code Solution for Automating ML Workflows": "https://medium.com/@varghesesherwin/exploring-pycaret-a-low-code-solution-for-automating-ml-workflows-b5cc69ddb736"
+    "💡 Exploring PyCaret: A Low-Code Solution for Automating ML Workflows" : "https://medium.com/@varghesesherwin/exploring-pycaret-a-low-code-solution-for-automating-ml-workflows-b5cc69ddb736"
 }
 
 
@@ -162,6 +162,6 @@ for project,link in PERSONAL_PROJECTS.items():
 #------Blogs and Articles---
 st.subheader("Blogs and Articles")
 st.write("----")
-for blog in blogs.items():
-    st.markdown(f"{blog}")
+for blog,link in blogs.items():
+    st.markdown(f"[{blog}]({link})")
 
