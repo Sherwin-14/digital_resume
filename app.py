@@ -23,18 +23,24 @@ EMAIL= "varghesesheriwn@gmail.com"
 SOCIAL_MEDIA={
     "LinkedIn": "https://linkedin.com/in/sherwin14",
     "Github": "https://github.com/Sherwin-14",
-    "Youtube": "",
-    "Twitter": ""
+    "Medium": "https://medium.com/@varghesesherwin",
 }
 
 PERSONAL_PROJECTS={
 
-    "🏆 English Premier League Analysis - Dashboard on EPL Season 20/21 " : "https://github.com/Sherwin-14/English_Premier_Analysis",
-    "🏆 Polish Property Market Overview - Dashboard on Poland's Property Market " : "https://github.com/Sherwin-14/Polish-Property-Market-Overview",
-    "🏆 PixieDust Plots - Dashboard on Walt Disney Company":"https://github.com/Sherwin-14/PixieDust/tree/master",
-    "🏆 BeatBoard - Dashboard on Spotify" :"https://github.com/Sherwin-14/BeatBoard ",
+    "🏆 English Premier League Analysis - An Analysis of EPL Season 20/21 " : "https://github.com/Sherwin-14/English_Premier_Analysis",
+    "🏆 Polish Property Market Overview - In-Depth Analysis of Poland's Leading Property Dealer Otodom " : "https://github.com/Sherwin-14/Polish-Property-Market-Overview",
+    "🏆 Atliq Mart Supply Chain Optimization - : Atliq Mart’s Journey to Supply Chain Excellence":"https://github.com/Sherwin-14/PixieDust/tree/master",
+    "🏆 Metropolitan Motion: The Analytic Route of NY’s Yellow Cabs" :"https://github.com/Sherwin-14/Hospitality_Domain ",
+    "🏆 Atliq Telecom User Analysis -  Mapping User Trends at Atliq Telecom" :"https://github.com/Sherwin-14/BeatBoard ",
     "🏆 Revenue Insights Hospitality Domain - Dashboard on Hospitality Domain" :"https://github.com/Sherwin-14/Hospitality_Domain ",
     
+}
+
+blogs = {
+    "📈 LLM VS LIM: A Comparative Analysis" : "https://blog.gopenai.com/large-language-models-llm-vs-large-image-models-lim-a-comparative-analysis-91d770443bab",
+    "🔍 Examining Comedy In India Through EDA: Part 1:" "https://medium.com/@varghesesherwin/examining-comedy-in-india-through-eda-part-1-7439381f9ad1",
+    "💡 Exploring PyCaret: A Low-Code Solution for Automating ML Workflows": "https://medium.com/@varghesesherwin/exploring-pycaret-a-low-code-solution-for-automating-ml-workflows-b5cc69ddb736"
 }
 
 
@@ -94,11 +100,12 @@ st.subheader("Hard Skills")
 st.write(
     """
    - 👨‍💻 Programming - Python, C/C++, SQL
-   - 📊 Data Visualization - Matplotlib, Seaborn, Plotly, MS-Excel, Power BI
+   - 📊 Data Visualization - Matplotlib, Seaborn, Plotly
+   - 🔍 Analytics -   MS-Excel, Power BI, BigQuery  
    - 💽 Databases  -  PostgresSQL, MongoDB
-   - 📚 Libraries  -  Pandas, Numpy, OpenCV, Visual Python, CryptoGraphy, Simpy
+   - 📚 Libraries  -  Pandas, Numpy, PyCaret, Scikit-Learn, Visual Python  
    - 🍶 Frameworks -  Plotly-Dash, Flask, Streamlit 
-   - 🔧 Dev Tools  -  Git, Jupyter Notebook, VS Code, Pycharm, Postman, Jira 
+   - 🔧 Dev Tools  -  Git, Jupyter Notebook, VS Code, Poetry, Postman, Jira 
 """
 )
 
@@ -108,6 +115,20 @@ st.subheader("Work History")
 st.write("---")
 
 #---JOB 1
+st.write(" 🚧 ","**Open Source Contributor | Github**")
+st.write("10/2023- Present")
+st.write(
+    """
+     - ► Addressed challenges by conducting comprehensive research on the Simulation and MedTech industry.
+     - ► Led the development of a web application using Streamlit and Visual Python for real-time simulation visualization, which increased team productivity by 40%.
+     - ► Developed an effective scheduling algorithm for job processing in the simulation, which cut down the runtime by 25%.
+     - ► Rectified significant bugs, thereby improving the performance and dependability of the simulation software.
+     - ► Oversaw a team to exhibit the product’s features at SETU, an event hosted by IIT Indore.
+"""
+)
+
+
+#---JOB 2
 st.write(" 🚧 ","**Project Engineer | IIT Indore**")
 st.write("06/2023- 10/2023")
 st.write(
@@ -121,15 +142,13 @@ st.write(
 """
 )
 
-
-#---JOB 2
+#---JOB 3
 st.write(" 🚧 ","**Supply Chain Analyst | Premeir Interio**")
 st.write("01/2023- 05/2023")
 st.write(
     """
      - ► Implemented a Just-In-Time inventory system, reducing carrying costs by 30% and boosting inventory turnover by 25%
      - ► Leveraged Excel dashboards for real-time inventory analysis, optimizing stock levels based on demand forecasts.
-
 """
 )
 
@@ -140,3 +159,9 @@ st.write("----")
 
 for project,link in PERSONAL_PROJECTS.items():
     st.write(f"[{project}]({link})")
+
+#------Blogs and Articles---
+for blog in blogs:
+    st.markdown(f"### {blog}")
+    st.markdown("---")  #
+
