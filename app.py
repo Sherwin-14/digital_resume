@@ -159,7 +159,10 @@ st.write("----")
 for project,link in PERSONAL_PROJECTS.items():
     st.write(f"[{project}]({link})")
 
+
+
 #------Blogs and Articles---
+st.write("#")
 st.subheader("Blogs and Articles")
 st.write("----")
 for blog,link in blogs.items():
