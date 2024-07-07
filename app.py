@@ -119,10 +119,10 @@ st.write(" 🚧 ","**Open Source Contributor | Github**")
 st.write("10/2023 - Present")
 st.write(
     """
-     - ► Implemented Linking: Harnessed Flask to incorporate the repository link into the UI
-     - ► Reported and Solved Bug: Identified and reported Docker build issue on Arch Linux
-     - ► Enhanced the website’s user interface by adding appropriate elements to the footer, improving the overall user experience and website functionality
-     - ► Authored and contributed an interactive data visualization tutorial using Plotly and Pandas libraries, focusing on the analysis of the Airbnb Europe dataset.
+     - ► Implemented linking by harnessing Flask to incorporate the repository link into the UI and also reported and solved a Docker build issue on Arch Linux
+     - ► Added sorting functionality for database tables, customized color schemes for nodes in Sankey charts, and resolved display issues in diagrams
+     - ► Enhanced website UX with strategic footer improvements, including an 8x increase in database character count and an auto-updating year feature
+     - ► Authored a data visualization tutorial using Plotly and Pandas, hosted in a repository with 20 stars on GitHub
 """
 )
 
